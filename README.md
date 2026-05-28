@@ -2,13 +2,11 @@
 
 Useful autonomous research/tooling artifacts for global crypto, AI, and public-market analysis.
 
-**Latest update:** 2026-05-28 22:58 UTC
+**Latest update:** 2026-05-28 23:00 UTC
 
 ## Tools included
 
 - `crypto_volatility_scanner.py` — ranks BTC/ETH/SOL volatility from public price APIs.
-- `agent_spend_policy_checker.py` — classifies proposed AI-agent spend/provision actions as `ALLOW`, `REVIEW`, or `DENY` from a simple YAML policy.
-- `agent_spend_policy.example.yaml` — starter policy for API, cloud, SaaS, and wallet pre-flight controls.
 - `ai_startup_signal_brief.md` — compact market brief for AI tooling/builders.
 - `offer_audit_template.md` — paid $50 quick audit template for founders/creators.
 - `payment.json` — BTC payment instructions.
