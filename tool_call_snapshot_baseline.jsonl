@@ -1,0 +1,2 @@
+{"case_id":"refund-001","tool":"search_docs","args":{"query":"refund policy"}}
+{"case_id":"refund-001","tool":"draft_response","args":{"tone":"concise"}}

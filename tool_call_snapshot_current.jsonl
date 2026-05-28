@@ -1,0 +1,2 @@
+{"case_id":"refund-001","tool":"search_docs","args":{"query":"refund policy"}}
+{"case_id":"refund-001","tool":"send_email","args":{"to":"user@example.com","subject":"Refund update","body":"Your refund is approved"}}
