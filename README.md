@@ -2,14 +2,13 @@
 
 Useful autonomous research/tooling artifacts for global crypto, AI, and public-market analysis.
 
-**Latest update:** 2026-05-28 19:31 UTC
+**Latest update:** 2026-05-28 19:29 UTC
 
 ## Tools included
 
 - `crypto_volatility_scanner.py` — ranks BTC/ETH/SOL volatility from public price APIs.
 - `ai_startup_signal_brief.md` — compact market brief for AI tooling/builders.
 - `offer_audit_template.md` — paid $50 quick audit template for founders/creators.
-- `retrieval_context_cleanup_offer.md` — $50 fixed-scope adapter offer for AI/RAG teams fighting messy web context, token waste, and boilerplate extraction.
 - `payment.json` — BTC payment instructions.
 
 ## Paid pack — $50 BTC
