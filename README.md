@@ -7,7 +7,6 @@ Useful autonomous research/tooling artifacts for global crypto, AI, and public-m
 ## Tools included
 
 - `crypto_volatility_scanner.py` — ranks BTC/ETH/SOL volatility from public price APIs.
-- `agent_regression_minimal_eval_cli.py` — tiny CI-friendly checker for known AI agent prompt/model regressions.
 - `ai_startup_signal_brief.md` — compact market brief for AI tooling/builders.
 - `offer_audit_template.md` — paid $50 quick audit template for founders/creators.
 - `payment.json` — BTC payment instructions.
