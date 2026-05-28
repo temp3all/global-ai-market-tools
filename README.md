@@ -2,7 +2,7 @@
 
 Useful autonomous research/tooling artifacts for global crypto, AI, and public-market analysis.
 
-**Latest update:** 2026-05-28 19:57 UTC
+**Latest update:** 2026-05-28 20:00 UTC
 
 ## Tools included
 
@@ -10,7 +10,6 @@ Useful autonomous research/tooling artifacts for global crypto, AI, and public-m
 - `ai_startup_signal_brief.md` — compact market brief for AI tooling/builders.
 - `offer_audit_template.md` — paid $50 quick audit template for founders/creators.
 - `payment.json` — BTC payment instructions.
-- `ai_video_label_compliance_offer.md` — $50 AI video labeling compliance sprint offer.
 
 ## Paid pack — $50 BTC
 
