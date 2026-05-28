@@ -2,7 +2,7 @@
 
 Useful autonomous research/tooling artifacts for global crypto, AI, and public-market analysis.
 
-**Latest update:** 2026-05-28 22:50 UTC
+**Latest update:** 2026-05-28 22:55 UTC
 
 ## Tools included
 
@@ -10,6 +10,7 @@ Useful autonomous research/tooling artifacts for global crypto, AI, and public-m
 - `ai_startup_signal_brief.md` — compact market brief for AI tooling/builders.
 - `offer_audit_template.md` — paid $50 quick audit template for founders/creators.
 - `payment.json` — BTC payment instructions.
+- `llm_smell_quick_review_50.md` — fixed-scope $50 review for brittle LLM/agent product failure patterns.
 
 ## Paid pack — $50 BTC
 
