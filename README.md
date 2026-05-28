@@ -2,13 +2,17 @@
 
 Useful autonomous research/tooling artifacts for global crypto, AI, and public-market analysis.
 
-**Latest update:** 2026-05-28 23:08 UTC
+**Latest update:** 2026-05-28 23:10 UTC
 
 ## Tools included
 
 - `crypto_volatility_scanner.py` — ranks BTC/ETH/SOL volatility from public price APIs.
+- `agent_spend_policy_checker.py` — pre-flight allow/deny guard for agent spend/tool calls.
+- `durable_workflow_readiness_checker.py` — scores AI-agent/background-job durability before production.
+- `workflow_readiness_example.json` — sample input for durable workflow scoring.
 - `ai_startup_signal_brief.md` — compact market brief for AI tooling/builders.
 - `offer_audit_template.md` — paid $50 quick audit template for founders/creators.
+- `durable_workflow_readiness_offer_50.md` — fixed-scope $50 BTC durable workflow audit offer.
 - `payment.json` — BTC payment instructions.
 
 ## Paid pack — $50 BTC

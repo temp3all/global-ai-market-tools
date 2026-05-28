@@ -1,0 +1,12 @@
+{
+  "persistent_state": true,
+  "idempotency_key": false,
+  "retry_policy": true,
+  "resume_pointer": false,
+  "human_approval_gate": true,
+  "audit_log": true,
+  "timeout_and_lease": false,
+  "dead_letter_queue": false,
+  "rate_limit_budget": true,
+  "deployment_drain": false
+}
