@@ -1,0 +1,8 @@
+{"case_id": "invoice-7", "cost_usd": 0.03, "duration_ms": 500, "run_id": "r1", "status": "ok", "step_id": "s1", "step_index": 1, "step_name": "load_pdf", "total_steps": 10}
+{"case_id": "invoice-7", "cost_usd": 0.12, "duration_ms": 1800, "run_id": "r1", "status": "ok", "step_id": "s2", "step_index": 2, "step_name": "ocr", "total_steps": 10}
+{"case_id": "invoice-7", "cost_usd": 0.4, "duration_ms": 2200, "run_id": "r1", "status": "ok", "step_id": "s8", "step_index": 8, "step_name": "classify_tax", "total_steps": 10}
+{"case_id": "invoice-7", "cost_usd": 0.35, "duration_ms": 1400, "error": "bad tool args", "run_id": "r1", "status": "failed", "step_id": "s9", "step_index": 9, "step_name": "write_erp", "total_steps": 10}
+{"case_id": "invoice-7", "cost_usd": 0.03, "duration_ms": 500, "replay_of_run_id": "r1", "run_id": "r2", "status": "ok", "step_id": "s1", "step_index": 1, "step_name": "load_pdf", "total_steps": 10}
+{"case_id": "invoice-7", "cost_usd": 0.12, "duration_ms": 1800, "replay_of_run_id": "r1", "run_id": "r2", "status": "ok", "step_id": "s2", "step_index": 2, "step_name": "ocr", "total_steps": 10}
+{"case_id": "invoice-7", "cost_usd": 0.4, "duration_ms": 2200, "replay_of_run_id": "r1", "run_id": "r2", "status": "ok", "step_id": "s8", "step_index": 8, "step_name": "classify_tax", "total_steps": 10}
+{"case_id": "invoice-7", "cost_usd": 0.35, "duration_ms": 1300, "replay_of_run_id": "r1", "run_id": "r2", "status": "ok", "step_id": "s9", "step_index": 9, "step_name": "write_erp", "total_steps": 10}
