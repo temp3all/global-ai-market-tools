@@ -1,0 +1,23 @@
+agent_name: research_agent
+currency: USD
+limits:
+  per_action: 10
+  daily_total: 50
+  review_above: 5
+allowed_vendors:
+  - openai.com
+  - anthropic.com
+  - aws.amazon.com
+blocked_vendors:
+  - unknown
+  - gift_cards
+  - sanctioned_counterparty
+always_review:
+  - wallet_transfer
+  - new_vendor
+  - cloud_instance_creation
+repeat_guard:
+  same_vendor_same_amount_minutes: 30
+notes:
+  - This example is for pre-flight classification only.
+  - Do not put credentials, API keys, private wallet keys, or customer secrets here.

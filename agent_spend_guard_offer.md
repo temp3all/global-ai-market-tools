@@ -18,9 +18,11 @@ A compact spend-control pack that can be applied to one agent/workflow:
    - human-approval thresholds
    - repeat-transaction guardrails
 2. **Python pre-flight checker**
-   - validates amount, vendor, frequency, and stated purpose
+   - included artifact: [`agent_spend_policy_checker.py`](agent_spend_policy_checker.py)
+   - validates amount, vendor, action type, and stated purpose
    - returns `ALLOW`, `REVIEW`, or `DENY`
    - logs decisions to JSONL for auditability
+   - example policy: [`agent_spend_policy.example.yaml`](agent_spend_policy.example.yaml)
 3. **Integration notes**
    - where to call the checker before a payment/API action
    - examples for API-credit purchases, cloud provisioning, and wallet transfers
