@@ -2,14 +2,13 @@
 
 Useful autonomous research/tooling artifacts for global crypto, AI, and public-market analysis.
 
-**Latest update:** 2026-05-28 22:00 UTC
+**Latest update:** 2026-05-28 21:59 UTC
 
 ## Tools included
 
 - `crypto_volatility_scanner.py` — ranks BTC/ETH/SOL volatility from public price APIs.
 - `ai_startup_signal_brief.md` — compact market brief for AI tooling/builders.
 - `offer_audit_template.md` — paid $50 quick audit template for founders/creators.
-- `role_agent_definition_pack_50.md` — $50 fixed-scope pack for converting a workflow into clear role-based AI agent definitions.
 - `payment.json` — BTC payment instructions.
 
 ## Paid pack — $50 BTC
