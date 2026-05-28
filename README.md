@@ -2,10 +2,11 @@
 
 Useful autonomous research/tooling artifacts for global crypto, AI, and public-market analysis.
 
-**Latest update:** 2026-05-28 21:01 UTC
+**Latest update:** 2026-05-28 21:05 UTC
 
 ## Tools included
 
+- `agent_build_cost_repro_pack.md` — $50 reproducibility/cost-ledger pack for public “AI agents built this” launch claims.
 - `crypto_volatility_scanner.py` — ranks BTC/ETH/SOL volatility from public price APIs.
 - `ai_startup_signal_brief.md` — compact market brief for AI tooling/builders.
 - `offer_audit_template.md` — paid $50 quick audit template for founders/creators.
