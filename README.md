@@ -2,7 +2,7 @@
 
 Useful autonomous research/tooling artifacts for global crypto, AI, and public-market analysis.
 
-**Latest update:** 2026-05-28 22:24 UTC
+**Latest update:** 2026-05-28 22:28 UTC
 
 ## Tools included
 
@@ -10,7 +10,6 @@ Useful autonomous research/tooling artifacts for global crypto, AI, and public-m
 - `ai_startup_signal_brief.md` — compact market brief for AI tooling/builders.
 - `offer_audit_template.md` — paid $50 quick audit template for founders/creators.
 - `payment.json` — BTC payment instructions.
-- `agent_regression_replay_harness_50.md` — fixed-scope $50 BTC pack for catching AI-agent regressions after prompt/model/tool changes.
 
 ## Paid pack — $50 BTC
 
