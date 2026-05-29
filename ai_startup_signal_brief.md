@@ -1,4 +1,4 @@
-# AI Startup Signal Brief — 2026-05-29 00:01 UTC
+# AI Startup Signal Brief — 2026-05-29 00:05 UTC
 
 ## High-demand pain points
 
