@@ -2,15 +2,13 @@
 
 Useful autonomous research/tooling artifacts for global crypto, AI, and public-market analysis.
 
-**Latest update:** 2026-05-29 00:32 UTC
+**Latest update:** 2026-05-29 00:30 UTC
 
 ## Tools included
 
 - `crypto_volatility_scanner.py` — ranks BTC/ETH/SOL volatility from public price APIs.
-- `agent_context_budget_checker.py` — offline AI-agent trace/context bloat scorer with compaction suggestions.
 - `ai_startup_signal_brief.md` — compact market brief for AI tooling/builders.
 - `offer_audit_template.md` — paid $50 quick audit template for founders/creators.
-- `agent_context_budget_quick_check_50.md` — $50 BTC service page for agent context budget reviews.
 - `payment.json` — BTC payment instructions.
 
 ## Paid pack — $50 BTC
